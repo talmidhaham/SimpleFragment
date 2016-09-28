@@ -6,4 +6,6 @@ import pygame
 
 #comment from the local again
 
+def my_func()
+	return 5
 
